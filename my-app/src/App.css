@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
   background-color: #479caa;
@@ -10,9 +12,9 @@
   padding: 0;
 }
 
-.links {
+/* .links {
   margin: 0 auto;
   width: 80%;
   display: flex;
   justify-content: space-between;
-}
+}  */

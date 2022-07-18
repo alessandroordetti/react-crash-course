@@ -2,6 +2,7 @@
 import './App.css';
 import Navbar from './Navbar';
 
+
 function App() {
 
   const title = 'Welcome to the main content page';
@@ -10,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <div className="content">
+      <div className="content" class="text-warning d-flex justify-content-center">
         <h1>
           {title}
         </h1>
