@@ -12,9 +12,10 @@
   padding: 0;
 }
 
-/* .links {
-  margin: 0 auto;
+.blog-preview{
+  color: white;
+}
+
+.postsList{
   width: 80%;
-  display: flex;
-  justify-content: space-between;
-}  */
+}

@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "title": "Primo post",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum nemo nesciunt enim nulla porro. Voluptate placeat repellendus dolorem eligendi deleniti quidem! Assumenda quae quos et nulla dolores minima dignissimos maiores.",
+            "author": "Alessandro",
+            "id": 1
+        },
+        {
+            "title": "Secondo post",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum nemo nesciunt enim nulla porro. Voluptate placeat repellendus dolorem eligendi deleniti quidem! Assumenda quae quos et nulla dolores minima dignissimos maiores.",
+            "author": "Paperino",
+            "id": 2
+        }
+    ]
+}
